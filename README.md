@@ -1,6 +1,8 @@
 <h2>Background Picker Project</h2>
 
-<img src="BG1.png" width=50%/>
+<img src="BG1.png" width=50% />
+
+<img src="BG2.png" width=40%/>
 
 
 <h3>Built with:</h3>
